@@ -1,223 +1,151 @@
-👋 Hi, I'm Ashutosh Pradhan
-Senior Software Engineer | Java | Spring Boot | Microservices | React | Angular
+<!-- HEADER -->
 
-<p align="center">
-<b>Building scalable, resilient, and high-performance enterprise applications.</b>
-</p>
+<div align="center">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ashutosh-pradhan-721663350/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:ashutoshpradhan.jv@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Experience-4%2B%20Years-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-orange?style=for-the-badge" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:1e3a8a,100:2563eb&text=ASHUTOSH%20PRADHAN&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Senior%20Software%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack&descAlignY=62&descSize=15" width="100%" />
 
-👨‍💻 About Me
+Building scalable systems. Engineering reliable solutions.
 
-I'm a Senior Software Engineer with 4+ years of experience designing, developing, and maintaining scalable enterprise applications across BFSI and government technology domains.
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin) ![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white) !Experience !Location
 
-Currently working at Société Générale Global Solution Centre (SGSC), building full-stack applications for IFRS 9 credit risk management.
+</div>
 
-My engineering focus includes backend architecture, distributed systems, microservices, event-driven communication, API performance optimization, and cloud-native application development.
+About Me
 
-💼 Currently working as a Senior Associate – Software Engineer at Société Générale.
-☕ Strong expertise in Java, Spring Boot, Spring Security, Hibernate, and Microservices.
-⚡ Experienced in building scalable REST APIs and Kafka-based asynchronous workflows.
-🏗️ Interested in system design, distributed architecture, and high-performance backend engineering.
-🌐 Full-stack development experience with React, Angular, TypeScript, and JavaScript.
-☁️ Hands-on experience with AWS, Docker, Kubernetes, Jenkins, and CI/CD.
-🔍 Experienced in production debugging, root-cause analysis, and application performance optimization.
-🌱 Continuously learning advanced system design and cloud-native engineering.
+I'm a Senior Software Engineer with 4+ years of experience building enterprise-grade applications, scalable backend services, and distributed systems.
 
-📍 Bengaluru, Karnataka, India
-📧 **ashutoshpradhan.jv@gmail.com**
+Currently at Société Générale Global Solution Centre, working on IFRS 9 credit risk management applications in the BFSI domain.
 
-🛠️ Technical Skills
-💻 Programming Languages
+I enjoy solving complex engineering problems, designing resilient systems, and building software that performs reliably at scale.
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript" />
-</p>
+💼 Senior Associate – Software Engineer at Société Générale
+☕ Backend engineering with Java, Spring Boot and Microservices
+⚡ Distributed systems and Kafka-based event-driven architecture
+🌐 Full-stack development with React, Angular and TypeScript
+☁️ Cloud and DevOps with AWS, Docker and Kubernetes
+🏗️ Interested in System Design, LLD, HLD and scalable architectures
+📍 Bengaluru, India
+Engineering Stack
 
-⚙️ Backend Development
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
-</p>
+Backend Engineering
 
-Java 11
-Spring Core, Spring MVC, Spring Boot
-Spring Data JPA, Spring Security, JWT
-Hibernate and JPA
-Microservices Architecture
-RESTful API Development
-Multithreading and Concurrency
-ExecutorService and CompletableFuture
-Kafka and Event-Driven Architecture
-Circuit Breaker, Retry and Fault Tolerance
-Clean Architecture and Design Principles
-🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,kafka" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,angular,redux,html,css,bootstrap" />
-</p>
+Frontend Engineering
 
-ReactJS 18
-Angular
-TypeScript and JavaScript (ES6+)
-Redux and React Hooks
-Responsive UI Development
-REST API Integration
-🗄️ Databases
+<img src="https://skillicons.dev/icons?i=react,angular,redux,js,ts,html,css" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb" />
-</p>
+Database & Storage
 
-Oracle Database
-MySQL
-DynamoDB
-SQL Query Optimization
-Database Design and Performance Tuning
-☁️ Cloud, DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,github,git,linux" />
-</p>
+Also experienced with: Oracle Database and DynamoDB.
 
-AWS S3 and IAM
-Docker and Kubernetes
-Jenkins and CI/CD Pipelines
-Terraform and AWS CDK
-CloudFormation and Helm
-Git and GitHub
-Grafana and ELK Stack
-Maven and IntelliJ IDEA
-🧪 Testing & Development Tools
-JUnit 5
-Mockito
-Spring Boot Test
-Postman
-Integration Testing
-REST API Testing
-Production Debugging and Log Analysis
-🚀 Professional Experience
-🏢 Société Générale Global Solution Centre (SGSC)
+Cloud & DevOps
 
-Senior Associate – Software Engineer
-📍 Bengaluru, India | July 2026 – Present
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,git,github,linux" />
 
-Project: Watchlist (WLC) | BFSI – Credit Risk Management / IFRS 9
+Testing & Observability
 
-Working on an enterprise credit-risk management platform designed to identify, monitor, validate, and manage non-retail counterparties with increased credit risk.
+JUnit 5 · Mockito · Postman · ELK Stack · Grafana · Spring Boot Test
 
-Key engineering areas:
+</div>
 
-Full-stack feature development using Java, Spring Boot, React, and Angular.
-REST API development and backend workflow implementation.
-Credit-risk validation and approval workflows.
-SQL-based data analysis and application troubleshooting.
-Integration with internal banking and rating systems.
-Production support, root-cause analysis, and defect resolution.
+Professional Experience
+Société Générale Global Solution Centre
 
-Technology Stack: Java 11, Spring Boot, Microservices, React, Angular, SQL, REST APIs.
+Senior Associate – Software Engineer | July 2026 – Present
 
-🏢 DXC Technology
+Java 11 Spring Boot React Angular SQL Microservices
 
-Software Engineer
-📍 Bengaluru, India | October 2022 – June 2026
+Working on Watchlist (WLC), an enterprise IFRS 9 credit-risk management application.
 
-Project: Integrated Eligibility System (IES) | Rhode Island State Government
+Developing full-stack enterprise features and REST APIs.
+Implementing counterparty risk validation and approval workflows.
+Building responsive React and Angular interfaces.
+Integrating internal banking and rating systems.
+Performing production debugging, SQL analysis and root-cause investigation.
+DXC Technology
 
-Key contributions:
+Software Engineer | October 2022 – June 2026
 
-Developed scalable Java and Spring Boot microservices.
-Designed REST APIs for enterprise system integrations.
-Implemented Kafka-based asynchronous processing.
-Improved API response latency by 35% through concurrent processing using ExecutorService and CompletableFuture.
-Optimized backend processing supporting 10K+ daily citizen benefit transactions.
+Java Spring Boot Kafka AWS React Angular
+
+Worked on the Integrated Eligibility System for Rhode Island State Government.
+
+Designed and developed scalable Java microservices.
+Implemented Kafka-based asynchronous workflows.
+Improved API response latency by 35% using concurrent processing.
+Supported backend processing for 10K+ daily citizen benefit transactions.
 Integrated AWS S3 and IAM for secure document management.
-Developed reusable frontend components using React and Angular.
-Implemented unit and integration tests using JUnit 5 and Mockito.
-Supported CI/CD pipelines, deployments, and production troubleshooting.
+Built frontend components using React and Angular.
+Implemented automated testing and CI/CD workflows.
+Featured Engineering Projects
+🏦 Watchlist – IFRS 9 Credit Risk Management
 
-Technology Stack: Java, Spring Boot, Kafka, Spring Security, JWT, Hibernate, MySQL, Oracle, React, Angular, AWS, Docker, Kubernetes.
+Enterprise BFSI application for identifying, monitoring and managing counterparties with increased credit risk.
 
-📌 Featured Projects
-1. Watchlist (WLC) – Société Générale
+Engineering focus
 
-Enterprise IFRS 9 Credit Risk Management Platform
+Risk proposal and approval workflows
+REST API and business logic development
+Counterparty validation and status management
+Secure data access and audit history
+Banking system integrations
 
-A full-stack banking application supporting the identification, monitoring, validation, and reporting of non-retail counterparties experiencing increased credit risk.
+Java 11 Spring Boot Microservices React Angular SQL
 
-Core Engineering Areas:
+🏛️ Integrated Eligibility System – Rhode Island
 
-Risk proposal and approval workflows.
-Backend business logic and REST APIs.
-Counterparty management and validation.
-Role-based access control and audit history.
-Integration with internal banking systems.
+Government platform enabling citizens to apply for multiple welfare programs through a unified application process.
 
-Tech: Java 11 | Spring Boot | Microservices | React | Angular | SQL
+Engineering focus
 
-2. Integrated Eligibility System (IES) – Rhode Island State Government
+Distributed microservices architecture
+Kafka event-driven processing
+REST API integration
+Concurrent backend processing
+Secure document storage
+Enterprise application performance
 
-Enterprise Government Benefits Platform
+Java Spring Boot Kafka AWS React MySQL Oracle
 
-A government platform enabling citizens to apply for multiple welfare programs through a unified application process, including SNAP, Medicaid, CCAP, and RI Works.
+Engineering Interests
 
-Core Engineering Areas:
+<div align="center">
 
-Distributed microservices architecture.
-Kafka-based event-driven processing.
-REST API integration and data transformation.
-Secure document management using AWS S3.
-Concurrent processing and backend optimization.
-High-volume transaction processing.
+Area	Focus
+Backend	Advanced Java, Spring Boot, JVM
+Architecture	Microservices, Design Patterns
+System Design	LLD, HLD, Distributed Systems
+Performance	Concurrency, Multithreading
+Messaging	Kafka, Event-Driven Architecture
+Cloud	AWS, Kubernetes, Docker
 
-Tech: Java | Spring Boot | Kafka | Spring Security | JWT | Hibernate | React | AWS
+</div>
 
-📊 GitHub Statistics
+GitHub Analytics
 
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sanu-ashutosh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanu-ashutosh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanu-ashutosh&theme=tokyonight&hide_border=true" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanu-ashutosh&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
-🎯 Current Focus
-Advanced Java and Spring Boot Engineering
-Low-Level Design (LLD) and High-Level Design (HLD)
-Distributed Systems and System Design
-Microservices Design Patterns
-Kafka and Event-Driven Architectures
-AWS and Cloud-Native Development
-Kubernetes and Container Orchestration
-Data Structures and Algorithms
-🤝 Let's Connect
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanu-ashutosh&layout=compact&theme=transparent&hide_border=true" />
 
-I'm always interested in discussing software engineering, backend architecture, distributed systems, open-source collaboration, and challenging engineering problems.
+<img width="90%" src="https://streak-stats.demolab.com?user=sanu-ashutosh&theme=transparent&hide_border=true" />
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ashutosh-pradhan-721663350/">
-<img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Pradhan-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:ashutoshpradhan.jv@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-</a>
-</p>
+</div>
 
-<p align="center">
-<b>💡 Building reliable systems. Solving complex problems. Engineering for scale.</b>
-</p>
+Let's Connect
 
-<p align="center">
-⭐ If you find my work interesting, feel free to explore my repositories and connect!
-</p>
+<div align="center">
+
+Interested in backend engineering, distributed systems, and building impactful software? Let's connect.
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashutosh%20Pradhan-0A66C2?style=for-the-badge&logo=linkedin) ![Gmail](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
+Engineering for scale. Building for reliability.
+
+</div>
