@@ -8,11 +8,35 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:1e3a8a,100:2563eb&text=ASHUTOSH%20PRADHAN&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Senior%20Software%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack&descAlignY=62&descSize=15&animation=twinkling" />
 
-Building scalable systems. Engineering reliable solutions.
+🤝 Let's Connect
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin) ![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook) ![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<div align="center">
 
-!Experience !Location
+Let's connect and build something amazing!
+
+<p>
+<a href="https://www.linkedin.com/in/ashutosh-pradhan-721663350/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:ashutoshpradhan.jv@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.facebook.com/ashutosh.pradhan.56884761" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://www.instagram.com/mr.snu_official/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/sanu-ashutosh" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</p>
+
+📍 Bengaluru, India | 📱 +91 9556375235
+
+⚡ Engineering for scale. Building for reliability.
+
+</div>
 
 </div>
 
