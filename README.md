@@ -1,9 +1,3 @@
-<!-- HEADER -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:1e3a8a,100:2563eb&text=ASHUTOSH%20PRADHAN&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Senior%20Software%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack&descAlignY=62&descSize=15" width="100%" />
-
 <!-- ========================================= -->
 
 <!-- ANIMATED VENOM HEADER -->
